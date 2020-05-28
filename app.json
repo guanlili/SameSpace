@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/issue/issue",
+    "pages/welfare/welfare",
+    "pages/communication/communication",
+    "pages/information/information"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "主页",
+        "iconPath": "images/icons/house.png",
+        "selectedIconPath": "images/icons/house_select.png"
+      },
+      {
+        "pagePath": "pages/issue/issue",
+        "text": "发布",
+        "iconPath": "images/icons/issue.png",
+        "selectedIconPath": "images/icons/issue_select.png"
+      },
+      {
+        "pagePath": "pages/welfare/welfare",
+        "text": "福利",
+        "iconPath": "images/icons/welfare.png",
+        "selectedIconPath": "images/icons/welfare_select.png"
+      },
+      {
+        "pagePath": "pages/communication/communication",
+        "text": "交流",
+        "iconPath": "images/icons/message.png",
+        "selectedIconPath": "images/icons/message_select.png"
+      },
+      {
+        "pagePath": "pages/information/information",
+        "text": "我的",
+        "iconPath": "images/icons/my.png",
+        "selectedIconPath": "images/icons/my_select.png"
+      }
+    ],
+    "color": "#000",
+    "selectedColor": "#00f"
+  },
+  "window": {
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "依氧空间"
+  },
+  "sitemapLocation": "sitemap.json"
+}

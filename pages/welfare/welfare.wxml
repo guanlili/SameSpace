@@ -1,0 +1,14 @@
+<!--pages/welfare/welfare.wxml-->
+<view class="container">
+<text class="welfare-font">依氧活动</text>
+<image src="/images/welfare/many_peoples.jpg"></image>
+<text class="welfare-font">跳蚤市场</text>
+<image src="/images/welfare/tiaozao_market.png"></image>
+
+<text class="welfare-font">租房天地</text>
+<!-- <image src="/images/welfare/rent_tiandi.jpg"></image> -->
+<!-- <image src="https://res.wx.qq.com/wxdoc/dist/assets/img/0.4cb08bb4.jpg"></image> -->
+
+
+
+</view>

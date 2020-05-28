@@ -1,0 +1,13 @@
+<view class="container">
+
+<!-- <text>性感空间，在线租房</text> -->
+<image src="/images/home/logo.jpeg"></image>
+<text>{{thisWeekMovie.name}}</text>
+<text>{{thisWeekMovie.comment}}</text>
+<image src="{{thisWeekMovie.imagePath}}"></image>
+
+
+<!-- <text>{{(score>=60)?"及格":"不及格"}}</text> -->
+
+</view>
+

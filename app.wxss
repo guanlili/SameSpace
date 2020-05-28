@@ -1,0 +1,20 @@
+.container{
+  background-color: #eee;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.welfare-font{
+  font-size: 20px;
+  color: rgba(247, 14, 45, 0.333);
+}
+
+/* *app.wxss*
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}  */

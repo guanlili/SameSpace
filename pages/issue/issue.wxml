@@ -1,0 +1,9 @@
+<view class="container">
+
+<text>我要找室友</text>
+<!-- <image src="/images/wangye.jpg"></image> -->
+<text>我要租房</text>
+<text>我要转租</text>
+<text>我有房子</text>
+
+</view>

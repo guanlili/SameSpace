@@ -1,0 +1,24 @@
+.about-banner{
+  width: 375rpx;
+  height: 375rpx;
+  /* margin-left: 200rpx;//左边200 */
+  border-radius: 50%
+}
+
+
+.nav-default{
+  color: blue;
+}
+.nav-hover{
+  color: red;
+}
+  /*传统布局
+   text-align: center;
+}
+
+text{
+  display: block;
+}
+image,text{
+  margin-bottom: 60px;
+} */
